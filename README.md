@@ -2,8 +2,8 @@
 
 Этот репозиторий содержит ссылки на связанные сервисы:
 
-- [ServiceUser](https://github.com/Perceva1e/ServiceUser) — сервис управления пользователями
+- [ServiceSavedFilm](https://github.com/Perceva1e/ServiceSavedFilm.git) — сервис управления сохраненными фильмами
 - [ServiceBD](https://github.com/Perceva1e/ServiceBD) — сервис работы с базой данных
 - [ServiceFilmCatolog](https://github.com/Perceva1e/ServiceFilmCatolog) — сервис поиска, фильтрации и сортировки фильмов
 - [ServiceReview](https://github.com/Perceva1e/ServiceReview) — cервис рецензий и рейтингов
-- [ServiceUI](https://github.com/Perceva1e/ServiceUI) — cервис интерфейса
+- [ServiceRegistration](https://github.com/Perceva1e/ServiceRegistration.git) — cервис для регистрации и входа
