@@ -7,4 +7,5 @@
 - [ServiceFilmCatolog](https://github.com/Perceva1e/ServiceFilmCatolog) — сервис поиска, фильтрации и сортировки фильмов
 - [ServiceReview](https://github.com/Perceva1e/ServiceReview) — cервис рецензий и рейтингов
 - [ServiceRegistration](https://github.com/Perceva1e/ServiceRegistration) — cервис для регистрации и входа
+- [ServiceFilmDetail](https://github.com/Perceva1e/ServiceFilmDetail) — cервис для страницы фильма
 - [ServiceUI](https://github.com/Perceva1e/ServiceUI) — cервис для ui
