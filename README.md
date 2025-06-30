@@ -9,3 +9,5 @@
 - [ServiceRegistration](https://github.com/Perceva1e/ServiceRegistration) — cервис для регистрации и входа
 - [ServiceFilmDetail](https://github.com/Perceva1e/ServiceFilmDetail) — cервис для страницы фильма
 - [ServiceUI](https://github.com/Perceva1e/ServiceUI) — cервис для ui
+- [ServiceNewRealise](https://github.com/Perceva1e/ServiceNewRealase) — cервис для новинок
+- [ServiceNotifications](https://github.com/Perceva1e/ServiceNotifications) — cервис для оповещения
